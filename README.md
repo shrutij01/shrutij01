@@ -1,5 +1,5 @@
 # :cat2: Hi, there
 
-I work at [MPI-IS](https://ei.is.tuebingen.mpg.de/) on simulation software, and software for realtime control of robots. And, configurations and shortcuts to make my work more enjoyable and colourful. And, I try to come up with better visualization techniques to look into what my code is up to.
+I am a PhD student at [Mila](https://mila.quebec/en/) working on problems in causal representation learning-- currently focusing on structure discovery in the representation space of text-conditioned generative models, and using such structure to explore different notions of interpretable concepts. I also like software engineering and spend time making my code more visual, efficient, and such that it is possible to be lazy with it later.
 
 I love to express myself through intricate prose and poorly drawn stick-figures. Usually curious about too many things.
